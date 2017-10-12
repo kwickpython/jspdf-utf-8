@@ -4,7 +4,7 @@
 
 You can [catch me on twitter](http://twitter.com/kwickpos):  or head over to [my company's website](https://kwickpos.com).
 
-## [Live PDF](http://tjin.kwickpos.com/) | [Documentation](https//kwickpos.com/opensource/utf8pdf)
+## [Live PDF](http://tjin.kwickpos.com/) | [Documentation](https//kwickpos.com/opensource/utf8pdf/)
 
 ## Creating your first document
 
